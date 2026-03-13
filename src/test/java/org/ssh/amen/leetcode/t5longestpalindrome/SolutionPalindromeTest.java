@@ -1,10 +1,9 @@
-package org.ssh.amen.t5longestpalindrome;
+package org.ssh.amen.leetcode.t5longestpalindrome;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-import static org.ssh.amen.t5longestpalindrome.Solution.isPalindrome;
+import static org.ssh.amen.leetcode.t5longestpalindrome.Solution.isPalindrome;
 
 class SolutionPalindromeTest {
 

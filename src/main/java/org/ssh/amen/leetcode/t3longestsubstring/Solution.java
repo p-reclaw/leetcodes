@@ -1,4 +1,4 @@
-package org.ssh.amen.t3longestsubstring;
+package org.ssh.amen.leetcode.t3longestsubstring;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package org.ssh.amen.t5longestpalindrome;
+package org.ssh.amen.leetcode.t5longestpalindrome;
 
 public class Solution {
 

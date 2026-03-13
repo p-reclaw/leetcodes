@@ -1,9 +1,9 @@
-package org.ssh.amen.t6zigzag;
+package org.ssh.amen.leetcode.t6zigzag;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.ssh.amen.t6zigzag.Solution.convert;
+import static org.ssh.amen.leetcode.t6zigzag.Solution.convert;
 
 class SolutionTest {
 

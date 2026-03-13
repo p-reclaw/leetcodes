@@ -1,4 +1,4 @@
-package org.ssh.amen.t6zigzag;
+package org.ssh.amen.leetcode.t6zigzag;
 
 public class Solution {
 

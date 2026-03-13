@@ -1,4 +1,4 @@
-package org.ssh.amen.t4medianofsortedarrays;
+package org.ssh.amen.leetcode.t4medianofsortedarrays;
 
 public class Solution {
 

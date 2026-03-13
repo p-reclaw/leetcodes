@@ -1,4 +1,4 @@
-package org.ssh.amen.t2addtwonumbers;
+package org.ssh.amen.leetcode.t2addtwonumbers;
 
 /**
  * Definition for singly-linked list.
